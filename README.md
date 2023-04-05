@@ -97,3 +97,4 @@ the path (e.g. `{$name}`).**
 [Composer]: https://getcomposer.org
 [`composer/installers`]: https://github.com/composer/installers
 [MIT License]: LICENSE
+
